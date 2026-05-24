@@ -1,0 +1,7 @@
+trip_id,employee_id,travel_date,category,origin,destination,distance_km,amount_usd,vendor
+T-10001,EMP-042,2024-01-10,flight,BOM,LHR,,1240.00,British Airways
+T-10002,EMP-017,2024-01-12,hotel,,,1,189.00,Marriott London
+T-10003,EMP-088,2024-01-14,ground_transport,,,45,32.00,Uber
+T-10004,EMP-023,2024-01-15,flight,DEL,LHR,,980.00,Air India
+T-10005,EMP-055,2024-01-18,hotel,,,2,210.00,Hilton Manchester
+T-10006,EMP-011,2024-01-20,ground_transport,,,30,25.00,Uber

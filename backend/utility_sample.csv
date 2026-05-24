@@ -1,0 +1,5 @@
+account_number,meter_id,billing_period_start,billing_period_end,consumption_kwh,tariff,cost_gbp,site
+ACC-001,MTR-A1,2024-01-01,2024-01-31,12450.5,HH-Metered,1876.23,London HQ
+ACC-001,MTR-A2,2024-01-01,2024-01-31,8320.0,NHH,1124.50,Manchester Office
+ACC-002,MTR-B1,2024-01-01,2024-01-31,5670.0,HH-Metered,890.10,Birmingham Plant
+ACC-002,MTR-B2,2024-02-01,2024-02-28,6100.0,NHH,945.00,Birmingham Plant

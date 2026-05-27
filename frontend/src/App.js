@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const API = 'http://127.0.0.1:8000/api';
+const API = 'https://breathe-esg-hlxi.onrender.com/api';
 
 function App() {
   const [records, setRecords] = useState([]);
